@@ -1,0 +1,307 @@
+@media(min-width:993px) and (max-width:1200px){
+  
+   
+    .navbar{
+        margin-left: 80px;
+    }
+    .top1{
+      
+        padding-left: 10px;
+        margin-right: -150px;
+    }
+    
+    /*--------------About----------------*/
+   
+    .headers-img1{
+        padding-top: 20px;
+    }
+    /*--------------Service---------------*/
+    .head{
+        margin-top: 80px;
+    }
+    .service{
+        margin-left: 50px;
+    }
+     /*--------------------Works----------*/
+     .bodies1{
+        margin-left: 40px;
+    }
+    .bodies{
+        margin-left: 40px;
+    }
+    
+
+}
+@media(min-width:768px) and (max-width:992px) {
+    .topsection{
+        height: auto;
+    }
+
+    .navbar{
+        margin-left: 0px;
+        width: 400px;
+        margin-top: 10px;
+        background-color:transparent;
+        box-shadow: none;
+    }
+    .lists{
+       
+        background-color: rgba(255,255,255,.9);
+              margin-top: 50px;
+              border-radius: 15px;
+              height: 380px;
+              padding: 20px;
+              text-align: center;
+               
+          }
+          .nav-item{
+            padding-top: 15px;
+        }
+    .animated{
+        width: 360px;
+        margin-left: 130px;
+       
+        
+    }
+    .top1{
+      
+        margin-left: 130px;
+    }
+    /*---------------------About--------------*/
+    .animateds{
+        width: 600px;
+    }
+   
+    /*-------------------------Service----------*/
+    .head{
+        margin-top: 60px;
+       
+    }
+    .service{
+        margin-left: 10px;
+    }
+      /*--------------------Works----------*/
+      .bodies1{
+        margin-left: 40px;
+    }
+    .bodies{
+        margin-left: 40px;
+    }
+     /*-------------------------Feedback----------*/
+     .team{
+        margin-top: 50px;
+    }
+}
+
+@media(min-width:575px) and (max-width:767px){
+    .topsection{
+        height: auto;
+    }
+    
+    .navbar{
+        margin-left: 0px;
+        width: 400px;
+        margin-top: 10px;
+        background-color:transparent;
+        box-shadow: none;
+    }
+    .lists{
+       
+  background-color: rgba(255,255,255,.9);
+        margin-top: 50px;
+        border-radius: 15px;
+        height: 380px;
+        padding: 20px;
+        text-align: center;
+         
+    }
+    .nav-item{
+        padding-top: 15px;
+    }
+    .animated{
+        width: 360px;
+        margin-left: 50px;
+       
+        
+    }
+    .top1{
+       
+        width: 200px;
+       padding: 0px;
+        margin-left: 0px;
+     
+    }
+    .top1 h1{
+        font-size: 30px;
+    }
+    /*---------------------About--------------*/
+   
+    /*-------------------------Service----------*/
+    .head{
+        margin-top: 60px;
+        
+    }
+    .service{
+        margin-left: 120px;
+    }
+      /*--------------------Works----------*/
+     .email{
+         padding-left:0px;
+         height: 50px;
+     }
+      .new{
+          font-size: 20px;
+          padding-top: 21px;
+      }
+      .hand{
+          width: 20px;
+      }
+     
+      .bodies1{
+        margin-left: 40px;
+    }
+    .bodies{
+        margin-left: 40px;
+    }
+    /*-------------------------Feedback----------*/
+    .team{
+        margin-top: 50px;
+    }
+    /*-----------------------contact------------*/
+    
+    
+}
+@media(min-width:480px) and (max-width:575px){
+
+    .topsection{
+        height: auto;
+    }
+    
+    .navbar{
+        margin-left: 0px;
+        width: 400px;
+        margin-top: 10px;
+        background-color:transparent;
+        box-shadow: none;
+    }
+    .lists{
+       
+        background-color: rgba(255,255,255,.9);
+              margin-top: 50px;
+              border-radius: 15px;
+              height: 380px;
+              padding: 20px;
+              text-align: center;
+               
+          }
+          .nav-item{
+              padding-top: 15px;
+          }
+    .animated{
+        width: 360px;
+        height: 640px;
+        margin-left: 30px;
+       
+        
+    }
+    .top1{
+        margin-left: 0px;
+        margin-left: 30px;
+    }
+    .top1 h1{
+        font-size: 25px;
+       
+    }
+    /*---------------------service---------*/
+    .head{
+        margin-top: 100px;
+        margin-left: 60px;
+    }
+    .service{
+        margin-left: 80px;
+    }
+     /*--------------------Works----------*/
+     .recenth{
+         margin-left: 60px;
+     }
+     .bodies1{
+        margin-left: 40px;
+    }
+    .bodies{
+        margin-left: 40px;
+    }
+     /*-------------------------Feedback----------*/
+     .headf{
+         margin-left: 60px;
+     }
+     .team{
+        margin-top: 50px;
+    }
+    
+}
+@media(max-width:479px){
+    .topsection{
+        height: 600px;
+    }
+    
+    .navbar{
+        margin-left: 0px;
+        width: 200px;
+        margin-top: 150px;
+        background-color:transparent;
+        box-shadow: none;
+    }
+    .lists{
+       
+        background-color: rgba(255,255,255,.9);
+              margin-top: 50px;
+              border-radius: 15px;
+              height: 380px;
+              padding: 20px;
+              text-align: center;
+               
+          }
+          .nav-item{
+              padding-top: 15px;
+          }
+    .animated{
+        width: 265px;
+        margin-left: 10px;
+       
+        
+    }
+    .top1{
+      
+        margin-left: 10px;
+    }
+
+    .top1 h1{
+        font-size: 20px;
+    }
+    /*----------------------service----------*/
+    .head{
+        margin-top: 100px;
+        margin-left: 50px;
+    }
+    .service{
+        margin-left: 50px;
+    }
+    /*--------------------Works----------*/
+    .recenth{
+        margin-left: 50px;
+    }
+    .bodies1{
+        margin-left: 10px;
+    }
+    .bodies{
+        margin-left: 10px;
+    }
+     /*-------------------------Feedback----------*/
+     .headf{
+         margin-left: 50px;
+         
+     }
+     .team{
+        margin-top: 50px;
+    }
+}
